@@ -5,8 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0060-permutation-sequence) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
