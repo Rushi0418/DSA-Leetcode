@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0066-plus-one) |
+| [0976-largest-perimeter-triangle](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Recursion
 |  |
 | ------- |
@@ -14,4 +15,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0066-plus-one) |
+| [0976-largest-perimeter-triangle](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Greedy
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Sorting
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
