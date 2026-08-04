@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0066-plus-one) |
+| [0812-largest-triangle-area](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Recursion
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0066-plus-one) |
+| [0812-largest-triangle-area](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Greedy
 |  |
@@ -31,5 +33,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Polygons
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
