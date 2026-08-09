@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-soup-servings](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0808-soup-servings) |
 | [0812-largest-triangle-area](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Rushi0418/DSA-Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Recursion
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0812-largest-triangle-area) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Rushi0418/DSA-Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Dynamic Programming
 |  |
 | ------- |
