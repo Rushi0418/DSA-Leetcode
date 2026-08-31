@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0812-largest-triangle-area](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0808-soup-servings](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0808-soup-servings) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
