@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0812-largest-triangle-area](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Rushi0418/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Rushi0418/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Quicksort
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Rushi0418/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -81,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0175-combine-two-tables) |
+## Binary Search
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Rushi0418/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
