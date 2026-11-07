@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/Rushi0418/DSA-Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rushi0418/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1882-process-tasks-using-servers](https://github.com/Rushi0418/DSA-Leetcode/tree/master/1882-process-tasks-using-servers) |
 ## Greedy
 |  |
 | ------- |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rushi0418/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1882-process-tasks-using-servers](https://github.com/Rushi0418/DSA-Leetcode/tree/master/1882-process-tasks-using-servers) |
 <!---LeetCode Topics End-->
